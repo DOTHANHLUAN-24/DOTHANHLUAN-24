@@ -1,6 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [eCommerce-website](https://github.com/DOTHANHLUAN-24/eCommerce-website)
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET** and **Angular**
 
 
 ## 🌐 Socials:
