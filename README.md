@@ -1,5 +1,6 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **.NET** and **Angular**
+> "Talk is cheap. Show me the code." – Linus Torvalds
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
