@@ -1,19 +1,62 @@
-# 💫 About Me:
-- 🌱 I’m currently learning **.NET** and **Angular**
-> "Talk is cheap. Show me the code." – Linus Torvalds
+<h1 align="center">Hi 👋, I'm Thành Luân</h1>
+<h3 align="center">🚀 .NET Backend Developer | Angular Learner</h3>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <em>"Talk is cheap. Show me the code."</em> – 
+  <strong>Linus Torvalds</strong>
 </p>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thanhluan24.dev@gmail) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+<p align="center">
+  <img src="https://i.giphy.com/ZVik7pBtu9dNS.gif" width="320" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DOTHANHLUAN-24&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+- 🌱 Currently learning **.NET 8** & **Angular**
+- 🧠 Interested in **Backend Architecture**, **Clean Code**, **RESTful API**
+- 🧪 Love writing **Unit Tests** and clean commit history
+- 🎯 Goal: **Junior .NET Backend Developer**
+
+---
+
+## 🌐 Contact
+<p align="center">
+  <a href="mailto:thanhluan24.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DOTHANHLUAN-24&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOTHANHLUAN-24&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=DOTHANHLUAN-24&color=0" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
@@ -23,4 +66,3 @@
   <img alt="github contribution grid snake animation" 
        src="https://raw.githubusercontent.com/DOTHANHLUAN-24/DOTHANHLUAN-24/output/github-contribution-grid-snake.svg" />
 </picture>
-
