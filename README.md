@@ -48,15 +48,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DOTHANHLUAN-24&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOTHANHLUAN-24&theme=tokyonight" height="165"/>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DOTHANHLUAN-24&color=0" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
