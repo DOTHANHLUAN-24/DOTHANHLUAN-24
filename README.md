@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 Currently learning **.NET 8** & **Angular**
+- 🌱 Currently learning **.NET 8** & **Blazor**
 - 🧠 Interested in **Backend Architecture**, **Clean Code**, **RESTful API**
 - 🧪 Love writing **Unit Tests** and clean commit history
 - 🎯 Goal: **Junior .NET Backend Developer**
