@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thành Luân</h1>
-<h3 align="center">🚀 .NET Backend Developer | Angular Learner</h3>
+<h3 align="center">🚀 .NET Backend Developer | Blazor Learner</h3>
 
 <p align="center">
   <em>"Talk is cheap. Show me the code."</em> – 
