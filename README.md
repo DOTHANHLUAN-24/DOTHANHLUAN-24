@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOTHANHLUAN-24&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=DOTHANHLUAN-24&theme=tokyonight" height="165"/>
 </p>
 
 ---
